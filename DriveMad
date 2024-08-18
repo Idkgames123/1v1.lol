@@ -1,90 +1,14 @@
 <html lang="en-us"><head>
-    <meta charset="utf-8">
-    <title>1v1.LOL</title>
-    <script type="text/javascript" async="" src="https://ssl.cdne.cpmstar.com/cached/zonemasters/cpmstarjsgameapi.js?ver=1346"></script><script type="text/javascript" async="" src="https://ssl.cdne.cpmstar.com/cached/zonemasters/mobilemodules.js?ver=1346"></script><script type="text/javascript" async="" src="https://server.cpmstar.com/cached/zonefiles/372_49986_1v1.js?rnd=588724"></script><script src="js/googleAnalytics.js"></script>
-    <script src="lib/jquery.min.js"></script>
-    <script src="js/IronSourceRV.js"></script>
-    <script src="js/mobileRedirect.js"></script>
-    <script src="js/fullscreen.js"></script>
-    <script>
-      var gameLoaded = false;
-      window.addEventListener("beforeunload", function (e) {
-        if (adsVisible || !gameLoaded || !lockedOccured) return null;
-        var confirmationMessage = "Are you sure you want to leave? ";
-        (e || window.event).returnValue = confirmationMessage; //Gecko + IE
-        return confirmationMessage; //Gecko + Webkit, Safari, Chrome etc.
-      });
-      window.alert = function (e) {
-        console.log(e);
-      };
-    </script>
-    <link rel="icon" type="image/png" href="favicon.png?v2">
-    <meta property="og:title" content="1v1.LOL">
-    <meta property="og:type" content="website">
-    <meta property="og:description" content="Discover 1v1, the online building simulator &amp; third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!">
-    <link rel="stylesheet" href="css/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <meta name="description" content="Discover 1v1, the online building simulator &amp; third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!">
-    <meta name="keywords" content="just,build,simulator,practice,free,online,battle,royale">
-    <script type="text/javascript" src="js/sdkloader/ima3.js"></script>
-
-    <!-- ZONETAG - PLACE INTO HEAD SECTION OR RUN CODE AT STARTUP -->
-    <script>
-      (function (zonefile) {
-        var y = window.location.href
-          .split("#")[0]
-          .split("")
-          .reduce(function (a, b) {
-            return ((a << 5) - a + b.charCodeAt(0)) >>> 1;
-          }, 0);
-        y = (10 + ((y * 7) % 26)).toString(36) + y.toString(36);
-        var drutObj = (window[y] = window[y] || {});
-        function failCpmstarAPI() {
-          var failFn = function (o) {
-            o && typeof o === "object" && o.fail && o.fail();
-          };
-          drutObj && Array.isArray(drutObj.cmd) && drutObj.cmd.forEach(failFn) && (drutObj.cmd.length = 0);
-          window.cpmstarAPI = window["_" + zonefile] = failFn;
-        }
-        var rnd = Math.round(Math.random() * 999999);
-        var s = document.createElement("script");
-        s.type = "text/javascript";
-        s.async = true;
-        s.onerror = failCpmstarAPI;
-        var proto = document.location.protocol;
-        var host = proto == "https:" || proto == "file:" ? "https://server" : "//cdn";
-        if (window.location.hash == "#cpmstarDev") host = "//dev.server";
-        if (window.location.hash == "#cpmstarStaging") host = "//staging.server";
-        s.src = host + ".cpmstar.com/cached/zonefiles/" + zonefile + ".js?rnd=" + rnd;
-        var s2 = document.getElementsByTagName("script")[0];
-        s2.parentNode.insertBefore(s, s2);
-        window.cpmstarAPI = function (o) {
-          (drutObj.cmd = drutObj.cmd || []).push(o);
-        };
-      })("372_49986_1v1");
-      Object.defineProperty(window.performance.__proto__, "measures", Object.getOwnPropertyDescriptor(window.performance.__proto__, "now")),
-        delete window.performance.__proto__.now,
-        (window.performance.__proto__.now = {}),
-        Object.defineProperty(window.performance.__proto__, "now", {
-          get: function () {
-            return this.measures;
-          },
-        }),
-        Object.defineProperty(window.performance.__proto__, "now", {
-          set: function () {
-            Object.defineProperty(window.performance.__proto__, "now", {
-              get: function () {
-                return function () {
-                  return this.measures() / 2;
-                };
-              },
-            });
-          },
-        });
-    </script>
-    <!-- MIDROLL/INTERSTITIAL VIDEO API -->
-    <script src="js/cpmstar.js"></script>
-  <style type="text/css"><br>    @media screen and (max-width: 1200px) { <br>		.ad-leaderboard-bottom {<br>			display: none !important;<br>		}<br>	}<br></style><style>.ZFfasc5f5NTIdwkMzNMy .zhhsfrubRJBf86cRcjeS {
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Drive Mad Unblocked - UBG365</title>
+<meta name="description" content="">
+<meta name="google" content="notranslate">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="webapp/fancade.css">
+<link rel="icon" href="">
+<script src="/js/main.js"></script>
+<style>.ZFfasc5f5NTIdwkMzNMy .zhhsfrubRJBf86cRcjeS {
   height: 32px;
   font-size: 16px;
   font-weight: bold;
@@ -817,221 +741,38 @@
   color: #ffffff;
 }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9jb21wb25lbnRzL25vdEJhY2tncm91bmQvYWUvYWVMaXN0RG9tLm1vZHVsZS5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXVEQTtFQUNFLFdBQUE7RUFHQSxNQUFBO0VBQ0EsT0FBQTtFQUNBLFFBQUE7RUFFQSxhQUFBO0VBQ0EsbUJBQUE7RUFDQSxzQkFBQTtFQUVBLGtCQUFBO0VBQ0EsVUFBQTtFQUNBLG9DQUFBO0FBMURGO0FBNENBO0VBaUJJLFdBQUE7RUFDQSxZQUFBO0VBQ0EsMkJBQUE7RUFDQSw0QkFBQTtFQUVBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLGtCQUFBO0VBRUEsY0FBQTtBQTVESjtBQWtDQTtFQWlDTSxrQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EsWUFBQTtBQWhFTjtBQTRCQTtFQXNDUSxrQkFBQTtBQS9EUjtBQXlCQTtFQTJDTSxPQUFBO0VBQ0Esa0JBQUE7QUFqRU47QUFxQkE7RUFnRE0sZUFBQTtFQUNBLFlBQUE7RUFFQSxrQkFBQTtFQUNBLFFBQUE7RUFFQSxhQUFBO0VBQ0EsdUJBQUE7RUFDQSxtQkFBQTtFQUVBLHlCQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtBQXJFTjtBQVNBO0VBaUVJLG1CQUFBO0FBdkVKO0FBTUE7RUFxRUksbUJBQUE7QUF4RUo7QUFHQTtFQXlFSSxhQUFBO0VBQ0EsVUFBQTtFQUNBLFlBQUE7RUFDQSw0SEFBQTtFQUVBLGtCQUFBO0VBQ0EsZUFBQTtFQUVBLGVBQUE7RUFDQSxvQ0FBQTtFQUNBLGlCQUFBO0VBQ0EsY0FBQTtFQUNBLGlCQUFBO0FBM0VKO0FBVkE7RUF3Rk0saUJBQUE7QUEzRU47QUFiQTtFQTZGSSxrQkFBQTtFQUNBLFNBQUE7RUFDQSxVQUFBO0VBQ0EsaUJBQUE7QUE3RUo7QUFuQkE7RUFrR00sV0FBQTtFQUNBLFlBQUE7QUE1RU47QUFpRkE7RUFDRSxZQUFBO0VBQ0EsWUFBQTtFQUNBLG1CQUFBO0VBQ0EsOEJBQUE7RUFDQSxhQUFBO0VBQ0EsbUJBQUE7RUFDQSx1QkFBQTtBQS9FRjtBQWlGRTtFQUNFLGtCQUFBO0FBL0VKO0FBcUVBO0VBYUksbUJBQUE7RUFDQSxjQUFBO0FBL0VKIiwic291cmNlc0NvbnRlbnQiOlsiLy8gQGZvbnQtZmFjZSB7XG4vLyAgIGZvbnQtZmFtaWx5OiBcIkhlbHZldGljYVwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1VCLUhlbHZldGljYS50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJPcGVuU2Fucy1SZWd1bGFyXCI7XG4vLyAgIHNyYzogdXJsKFwiaHR0cHM6Ly9pbWcuZHNlcnMuY29tL2ZvbnQvT3BlblNhbnMtUmVndWxhci50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJPcGVuU2Fucy1Cb2xkXCI7XG4vLyAgIHNyYzogdXJsKFwiaHR0cHM6Ly9pbWcuZHNlcnMuY29tL2ZvbnQvT3BlblNhbnMtQm9sZC50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJPcGVuU2Fucy1TZW1pQm9sZFwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L09wZW5TYW5zLVNlbWlCb2xkLnR0ZlwiKTtcbi8vIH1cblxuLy8gQGZvbnQtZmFjZSB7XG4vLyAgIGZvbnQtZmFtaWx5OiBcIkhlbHZldGljYU5ldWUtQm9sZFwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L0hlbHZldGljYU5ldWUtQm9sZC5vdGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJwc2xcIjtcbi8vICAgc3JjOiB1cmwoXCJodHRwczovL2ltZy5kc2Vycy5jb20vZm9udC9QU0wwMDJTUC50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJBcmlhbC1Cb2xkTVRcIjtcbi8vICAgc3JjOiB1cmwoXCJodHRwczovL2ltZy5kc2Vycy5jb20vZm9udC9BcmlhbC1Cb2xkTVQub3RmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiUnViaWstQm9sZEl0YWxpY1wiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1J1YmlrLUJvbGRJdGFsaWMudHRmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiUnViaWstUmVndWxhclwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1J1YmlrLVJlZ3VsYXIudHRmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiUnViaWstQm9sZFwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1J1YmlrLUJvbGQudHRmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiVWJ1bnR1LUJvbGRcIjtcbi8vICAgc3JjOiB1cmwoXCJodHRwczovL2ltZy5kc2Vycy5jb20vZm9udC9VYnVudHUtQm9sZC50dGZcIik7XG4vLyB9XG5cbi5pbXBvcnRfcHJvZHVjdF9idXR0b24ge1xuICB3aWR0aDogMTAwJTtcbiAgLy8gYm9yZGVyOiAxcHggc29saWQgc2FsbW9uO1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHRvcDogMDtcbiAgbGVmdDogMDtcbiAgcmlnaHQ6IDA7XG5cbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcblxuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHotaW5kZXg6IDI7XG4gIGZvbnQtZmFtaWx5OiBPcGVuU2Fucy1Cb2xkLCBPcGVuU2FucztcblxuICAuaGVhZGVyIHtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBoZWlnaHQ6IDIxcHg7XG4gICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogOHB4O1xuICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiA4cHg7XG5cbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuXG4gICAgY29sb3I6ICNmZmZmZmY7XG5cbiAgICAvLyBib3gtc2hhZG93OiAwcHggNXB4IDVweCAtM3B4IHJnYmEoMCwgMCwgMCwgMC4wOCksXG4gICAgLy8gICAwcHggM3B4IDE0cHggMnB4IHJnYmEoMCwgMCwgMCwgMC4wNCksIDBweCA4cHggMTBweCAxcHggcmdiYSgwLCAwLCAwLCAwLjA2KTtcbiAgICAvLyBib3JkZXItcmFkaXVzOiA0cHg7XG5cbiAgICAuaWNvbiB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBsZWZ0OiAxMHB4O1xuICAgICAgd2lkdGg6IDE1cHg7XG4gICAgICBoZWlnaHQ6IDE1cHg7XG4gICAgICBnIHtcbiAgICAgICAgZmlsbDogYW50aXF1ZXdoaXRlO1xuICAgICAgfVxuICAgIH1cblxuICAgIC50aXRsZSB7XG4gICAgICBmbGV4OiAxO1xuICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgIH1cblxuICAgIC5wcmljZSB7XG4gICAgICBtaW4td2lkdGg6IDQ1cHg7XG4gICAgICBoZWlnaHQ6IDIxcHg7XG5cbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIHJpZ2h0OiAwO1xuXG4gICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuXG4gICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMTFiYzU3O1xuICAgICAgYm9yZGVyLXRvcC1yaWdodC1yYWRpdXM6IDhweDtcbiAgICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgIzAwYjA1MDtcbiAgICB9XG4gIH1cblxuICAuc3VjY2VlZCB7XG4gICAgYmFja2dyb3VuZDogcmdiKDQyLCAyMDQsIDExMSk7XG4gIH1cblxuICAuZXJyb3Ige1xuICAgIGJhY2tncm91bmQ6IHJnYigyNTEsIDkxLCA0MCk7XG4gIH1cblxuICAuYnV0dG9uIHtcbiAgICBkaXNwbGF5OiBub25lO1xuICAgIHdpZHRoOiA5OCU7XG4gICAgaGVpZ2h0OiAzMnB4O1xuICAgIGJveC1zaGFkb3c6IDBweCA1cHggNXB4IC0zcHggcmdiYSgwLCAwLCAwLCAwLjA4KSxcbiAgICAgIDBweCAzcHggMTRweCAycHggcmdiYSgwLCAwLCAwLCAwLjA0KSwgMHB4IDhweCAxMHB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMDYpO1xuICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICBtYXJnaW4tdG9wOiA2cHg7XG5cbiAgICBmb250LXNpemU6IDEycHg7XG4gICAgZm9udC1mYW1pbHk6IE9wZW5TYW5zLUJvbGQsIE9wZW5TYW5zO1xuICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgIGNvbG9yOiAjZmZmZmZmO1xuICAgIGxpbmUtaGVpZ2h0OiAxN3B4O1xuXG4gICAgc3ZnIHtcbiAgICAgIG1hcmdpbi1yaWdodDogOHB4O1xuICAgIH1cbiAgfVxuXG4gIC5jaGVja2JveCB7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMzRweDtcbiAgICBsZWZ0OiAxMXB4O1xuICAgIHotaW5kZXg6IDk5OTk5OTk5O1xuICAgIGlucHV0IHtcbiAgICAgIHdpZHRoOiAxOHB4O1xuICAgICAgaGVpZ2h0OiAxOHB4O1xuICAgIH1cbiAgfVxufVxuXG4uYWVMaXN0QmF0Y2hCdG5Cb3gge1xuICB3aWR0aDogMjAwcHg7XG4gIGhlaWdodDogMzZweDtcbiAgYmFja2dyb3VuZDogI2ZmOGYwMDtcbiAgYm9yZGVyLXJhZGl1czogOHB4IDhweCA4cHggOHB4O1xuICBkaXNwbGF5OiBmbGV4O1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcblxuICAmID4gZGl2IHtcbiAgICBtYXJnaW4tcmlnaHQ6IDE1cHg7XG4gIH1cbiAgYnV0dG9uIHtcbiAgICBiYWNrZ3JvdW5kOiAjZmY4ZjAwO1xuICAgIGNvbG9yOiAjZmZmZmZmO1xuICB9XG59XG4iXSwic291cmNlUm9vdCI6IiJ9 */</style><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9uiHDzQFAhqALUhTgTYJcz9XrGH2y0/9AORwCSapUO/f7Uh7ysIzyszNkuWDLqNYg8446Uj48XIstBW1qv/wAQAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3Mjc4MjcxOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9R+gkZL3TWq+Z7RJ2L0c7ZN7FZD5z4mHmVvjrPitg/EMz9P3j5d3W7Vw5ZR9jtJGmWKltM4BO3smNzpCgwYuwwAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3Mjc4MjcxOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A4A26Ymj79UVY7C7JGUS4BG1s7MdcDokAQf/RP0paks+RoTYbXHxceT/5L4iKcsleFCngi75YfNRGW2+SpVv1ggAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7CQXglZzTrThjGTBEn1rWTxHOEtkWivwzgea+NjyardrwlieSjVuyG44PkYgIPGs8Q9svD8sF3Yedn0BBBjXAkAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="></head>
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9jb21wb25lbnRzL25vdEJhY2tncm91bmQvYWUvYWVMaXN0RG9tLm1vZHVsZS5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXVEQTtFQUNFLFdBQUE7RUFHQSxNQUFBO0VBQ0EsT0FBQTtFQUNBLFFBQUE7RUFFQSxhQUFBO0VBQ0EsbUJBQUE7RUFDQSxzQkFBQTtFQUVBLGtCQUFBO0VBQ0EsVUFBQTtFQUNBLG9DQUFBO0FBMURGO0FBNENBO0VBaUJJLFdBQUE7RUFDQSxZQUFBO0VBQ0EsMkJBQUE7RUFDQSw0QkFBQTtFQUVBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLGtCQUFBO0VBRUEsY0FBQTtBQTVESjtBQWtDQTtFQWlDTSxrQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EsWUFBQTtBQWhFTjtBQTRCQTtFQXNDUSxrQkFBQTtBQS9EUjtBQXlCQTtFQTJDTSxPQUFBO0VBQ0Esa0JBQUE7QUFqRU47QUFxQkE7RUFnRE0sZUFBQTtFQUNBLFlBQUE7RUFFQSxrQkFBQTtFQUNBLFFBQUE7RUFFQSxhQUFBO0VBQ0EsdUJBQUE7RUFDQSxtQkFBQTtFQUVBLHlCQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtBQXJFTjtBQVNBO0VBaUVJLG1CQUFBO0FBdkVKO0FBTUE7RUFxRUksbUJBQUE7QUF4RUo7QUFHQTtFQXlFSSxhQUFBO0VBQ0EsVUFBQTtFQUNBLFlBQUE7RUFDQSw0SEFBQTtFQUVBLGtCQUFBO0VBQ0EsZUFBQTtFQUVBLGVBQUE7RUFDQSxvQ0FBQTtFQUNBLGlCQUFBO0VBQ0EsY0FBQTtFQUNBLGlCQUFBO0FBM0VKO0FBVkE7RUF3Rk0saUJBQUE7QUEzRU47QUFiQTtFQTZGSSxrQkFBQTtFQUNBLFNBQUE7RUFDQSxVQUFBO0VBQ0EsaUJBQUE7QUE3RUo7QUFuQkE7RUFrR00sV0FBQTtFQUNBLFlBQUE7QUE1RU47QUFpRkE7RUFDRSxZQUFBO0VBQ0EsWUFBQTtFQUNBLG1CQUFBO0VBQ0EsOEJBQUE7RUFDQSxhQUFBO0VBQ0EsbUJBQUE7RUFDQSx1QkFBQTtBQS9FRjtBQWlGRTtFQUNFLGtCQUFBO0FBL0VKO0FBcUVBO0VBYUksbUJBQUE7RUFDQSxjQUFBO0FBL0VKIiwic291cmNlc0NvbnRlbnQiOlsiLy8gQGZvbnQtZmFjZSB7XG4vLyAgIGZvbnQtZmFtaWx5OiBcIkhlbHZldGljYVwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1VCLUhlbHZldGljYS50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJPcGVuU2Fucy1SZWd1bGFyXCI7XG4vLyAgIHNyYzogdXJsKFwiaHR0cHM6Ly9pbWcuZHNlcnMuY29tL2ZvbnQvT3BlblNhbnMtUmVndWxhci50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJPcGVuU2Fucy1Cb2xkXCI7XG4vLyAgIHNyYzogdXJsKFwiaHR0cHM6Ly9pbWcuZHNlcnMuY29tL2ZvbnQvT3BlblNhbnMtQm9sZC50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJPcGVuU2Fucy1TZW1pQm9sZFwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L09wZW5TYW5zLVNlbWlCb2xkLnR0ZlwiKTtcbi8vIH1cblxuLy8gQGZvbnQtZmFjZSB7XG4vLyAgIGZvbnQtZmFtaWx5OiBcIkhlbHZldGljYU5ldWUtQm9sZFwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L0hlbHZldGljYU5ldWUtQm9sZC5vdGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJwc2xcIjtcbi8vICAgc3JjOiB1cmwoXCJodHRwczovL2ltZy5kc2Vycy5jb20vZm9udC9QU0wwMDJTUC50dGZcIik7XG4vLyB9XG5cbi8vIEBmb250LWZhY2Uge1xuLy8gICBmb250LWZhbWlseTogXCJBcmlhbC1Cb2xkTVRcIjtcbi8vICAgc3JjOiB1cmwoXCJodHRwczovL2ltZy5kc2Vycy5jb20vZm9udC9BcmlhbC1Cb2xkTVQub3RmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiUnViaWstQm9sZEl0YWxpY1wiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1J1YmlrLUJvbGRJdGFsaWMudHRmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiUnViaWstUmVndWxhclwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1J1YmlrLVJlZ3VsYXIudHRmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiUnViaWstQm9sZFwiO1xuLy8gICBzcmM6IHVybChcImh0dHBzOi8vaW1nLmRzZXJzLmNvbS9mb250L1J1YmlrLUJvbGQudHRmXCIpO1xuLy8gfVxuXG4vLyBAZm9udC1mYWNlIHtcbi8vICAgZm9udC1mYW1pbHk6IFwiVWJ1bnR1LUJvbGRcIjtcbi8vICAgc3JjOiB1cmwoXCJodHRwczovL2ltZy5kc2Vycy5jb20vZm9udC9VYnVudHUtQm9sZC50dGZcIik7XG4vLyB9XG5cbi5pbXBvcnRfcHJvZHVjdF9idXR0b24ge1xuICB3aWR0aDogMTAwJTtcbiAgLy8gYm9yZGVyOiAxcHggc29saWQgc2FsbW9uO1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHRvcDogMDtcbiAgbGVmdDogMDtcbiAgcmlnaHQ6IDA7XG5cbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcblxuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHotaW5kZXg6IDI7XG4gIGZvbnQtZmFtaWx5OiBPcGVuU2Fucy1Cb2xkLCBPcGVuU2FucztcblxuICAuaGVhZGVyIHtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBoZWlnaHQ6IDIxcHg7XG4gICAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogOHB4O1xuICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiA4cHg7XG5cbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuXG4gICAgY29sb3I6ICNmZmZmZmY7XG5cbiAgICAvLyBib3gtc2hhZG93OiAwcHggNXB4IDVweCAtM3B4IHJnYmEoMCwgMCwgMCwgMC4wOCksXG4gICAgLy8gICAwcHggM3B4IDE0cHggMnB4IHJnYmEoMCwgMCwgMCwgMC4wNCksIDBweCA4cHggMTBweCAxcHggcmdiYSgwLCAwLCAwLCAwLjA2KTtcbiAgICAvLyBib3JkZXItcmFkaXVzOiA0cHg7XG5cbiAgICAuaWNvbiB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBsZWZ0OiAxMHB4O1xuICAgICAgd2lkdGg6IDE1cHg7XG4gICAgICBoZWlnaHQ6IDE1cHg7XG4gICAgICBnIHtcbiAgICAgICAgZmlsbDogYW50aXF1ZXdoaXRlO1xuICAgICAgfVxuICAgIH1cblxuICAgIC50aXRsZSB7XG4gICAgICBmbGV4OiAxO1xuICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgIH1cblxuICAgIC5wcmljZSB7XG4gICAgICBtaW4td2lkdGg6IDQ1cHg7XG4gICAgICBoZWlnaHQ6IDIxcHg7XG5cbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIHJpZ2h0OiAwO1xuXG4gICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuXG4gICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMTFiYzU3O1xuICAgICAgYm9yZGVyLXRvcC1yaWdodC1yYWRpdXM6IDhweDtcbiAgICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgIzAwYjA1MDtcbiAgICB9XG4gIH1cblxuICAuc3VjY2VlZCB7XG4gICAgYmFja2dyb3VuZDogcmdiKDQyLCAyMDQsIDExMSk7XG4gIH1cblxuICAuZXJyb3Ige1xuICAgIGJhY2tncm91bmQ6IHJnYigyNTEsIDkxLCA0MCk7XG4gIH1cblxuICAuYnV0dG9uIHtcbiAgICBkaXNwbGF5OiBub25lO1xuICAgIHdpZHRoOiA5OCU7XG4gICAgaGVpZ2h0OiAzMnB4O1xuICAgIGJveC1zaGFkb3c6IDBweCA1cHggNXB4IC0zcHggcmdiYSgwLCAwLCAwLCAwLjA4KSxcbiAgICAgIDBweCAzcHggMTRweCAycHggcmdiYSgwLCAwLCAwLCAwLjA0KSwgMHB4IDhweCAxMHB4IDFweCByZ2JhKDAsIDAsIDAsIDAuMDYpO1xuICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICBtYXJnaW4tdG9wOiA2cHg7XG5cbiAgICBmb250LXNpemU6IDEycHg7XG4gICAgZm9udC1mYW1pbHk6IE9wZW5TYW5zLUJvbGQsIE9wZW5TYW5zO1xuICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgIGNvbG9yOiAjZmZmZmZmO1xuICAgIGxpbmUtaGVpZ2h0OiAxN3B4O1xuXG4gICAgc3ZnIHtcbiAgICAgIG1hcmdpbi1yaWdodDogOHB4O1xuICAgIH1cbiAgfVxuXG4gIC5jaGVja2JveCB7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMzRweDtcbiAgICBsZWZ0OiAxMXB4O1xuICAgIHotaW5kZXg6IDk5OTk5OTk5O1xuICAgIGlucHV0IHtcbiAgICAgIHdpZHRoOiAxOHB4O1xuICAgICAgaGVpZ2h0OiAxOHB4O1xuICAgIH1cbiAgfVxufVxuXG4uYWVMaXN0QmF0Y2hCdG5Cb3gge1xuICB3aWR0aDogMjAwcHg7XG4gIGhlaWdodDogMzZweDtcbiAgYmFja2dyb3VuZDogI2ZmOGYwMDtcbiAgYm9yZGVyLXJhZGl1czogOHB4IDhweCA4cHggOHB4O1xuICBkaXNwbGF5OiBmbGV4O1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcblxuICAmID4gZGl2IHtcbiAgICBtYXJnaW4tcmlnaHQ6IDE1cHg7XG4gIH1cbiAgYnV0dG9uIHtcbiAgICBiYWNrZ3JvdW5kOiAjZmY4ZjAwO1xuICAgIGNvbG9yOiAjZmZmZmZmO1xuICB9XG59XG4iXSwic291cmNlUm9vdCI6IiJ9 */</style></head>
+<body id="body">
+<div id="modal_parent">
+<div id="modal_content">
+<span id="modal_close_button">×</span>
+<div id="store_link_modal_content" class="modal_inner"></div>
+<div id="share_file_modal_content" class="modal_inner"></div>
+</div>
+</div>
+<div id="canvas_border" class="emscripten_border" style="margin-top: 0px;">
+<div id="play_content" class="middle center" style="display: none;">
+<div class="edge">
+<div class="box">
+<div class="black">
+<img src="webapp/cover.jpg" class="cover">
+<p class="title">Drive Mad Unblocked</p>
+<p class="author">Martin Magni</p>
+</div>
+</div>
+</div>
+<div id="progress_or_play">
+<progress id="progress" class="loading" value="94" max="100"></progress>
+</div>
+<p class="description"></p>
+</div>
+<canvas class="emscripten" id="canvas" tabindex="-1" width="1365" height="919" style="border-radius: 0px; width: 1365px; height: 919px;"></canvas>
+<div id="gradient" style="left: 0px; width: 1365px; height: 919px; border-radius: 0px; display: none;"></div>
+<div id="webview_content" style="left: 0px; width: 1365px; height: 919px; border-radius: 0px;"></div>
+</div>
+<script type="text/javascript" src="webapp/source_min.js"></script>
+<script type="text/javascript" src="webapp/index.js"></script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;8b54e490afcd2eab&quot;,&quot;version&quot;:&quot;2024.7.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;37ff09218b0644da9cc88317765ced90&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfL4&quot;:true}}}" crossorigin="anonymous"></script>
 
-  <body>
-    
 
-    <!-- <div id="interAdsContainer" style="display: none;"></div> -->
-    <div id="gameContainer" style="padding: 0px; margin: 0px; border: 0px; position: relative; background: rgb(0, 0, 0);"><canvas id="#canvas" width="1365" height="919" style="width: 100%; height: 100%; cursor: default;"></canvas></div>
-    <div id="loader" style="display: none;">
-      <img class="logo" src="logo.png">
-      <div class="spinner" style="display: none;"></div>
-      <div class="progress" style="display: block;">
-        <div class="full" style="transform: scaleX(1);"></div>
-      </div>
-    </div>
-
-    <script id="unity-loader" src="UnityLoader.js"></script>
-    <!--<script src="Build/UnityLoader.js"></script>-->
-    <script>
-      var gameJsonUrl = "https://justbuild.nyc3.cdn.digitaloceanspaces.com/CI/1v1/Prod/162/WebGL.json"; //%gameJsonUrl
-      var hostname = window.location.hostname;
-      if (hostname.indexOf("dev1v1") >= 0 || hostname.indexOf("dev.1v1") >= 0 || hostname.indexOf("test1v1") >= 0 || hostname.indexOf("test.1v1") >= 0) {
-        let urlParams = new URLSearchParams(window.location.search);
-        let queryParam = urlParams.get("version");
-
-        if (queryParam !== undefined && queryParam !== null) {
-          gameJsonUrl = gameJsonUrl.replace(/[0-9][0-9]+/i, queryParam);
-        }
-      }
-      var gameInstance = UnityLoader.instantiate("gameContainer", gameJsonUrl, { onProgress: UnityProgress });
-      //var gameInstance = UnityLoader.instantiate("gameContainer", "Build/WebGL.json", {onProgress: UnityProgress});
-
-      window.unityInstance = gameInstance;
-      var lockedOccured = false;
-
-      function UnityProgress(gameInstance, progress) {
-        if (!gameInstance.Module) {
-          return;
-        }
-        const loader = document.querySelector("#loader");
-        if (!gameInstance.progress) {
-          const progress = document.querySelector("#loader .progress");
-          progress.style.display = "block";
-          gameInstance.progress = progress.querySelector(".full");
-          loader.querySelector(".spinner").style.display = "none";
-        }
-        gameInstance.progress.style.transform = `scaleX(${progress})`;
-        if (progress === 1 && !gameInstance.removeTimeout) {
-          loader.style.display = "none";
-          gameLoaded = true;
-        }
-      }
-
-      document.onkeydown = function (e) {
-        if (e.altKey || e.ctrlKey || e.key == "F1" || e.key == "F2" || e.key == "F3" || e.key == "F4") {
-          e.preventDefault();
-        }
-      };
-
-      document.onmouseup = function (e) {
-        e.preventDefault();
-      };
-
-      document.addEventListener("pointerlockchange", lockChangeAlert, false);
-      document.addEventListener("mozpointerlockchange", lockChangeAlert, false);
-
-      function lockChangeAlert() {
-        if (!lockedOccured && document.pointerLockElement) lockedOccured = true;
-        if (!document.pointerLockElement && lockedOccured) {
-          lockedOccured = false;
-          gameInstance.SendMessage("Pause Menu", "OnCursorUnlocked");
-        }
-      }
-
-      window.addEventListener("resize", injectAdByWindowSize);
-
-      function injectAdByWindowSize() {
-        // Inject small ad if screen is small, or large ad if screen is large
-        if (window.innerHeight < 900) {
-          if (document.getElementById("adRectangleBottom") == null) {
-            var el = document.getElementsByClassName("ad-rectangle-bottom")[0];
-            el.id = "adRectangleBottom";
-            cpmstarAPI({ kind: "go", module: "POOL 83025", config: { conditions: { target: { el: el, kind: "replace" } } } });
-          }
-        } else {
-          if (document.getElementById("adLeaderboardBottom") == null) {
-            var el = document.getElementsByClassName("ad-leaderboard-bottom")[0];
-            el.id = "adLeaderboardBottom";
-            cpmstarAPI({ kind: "go", module: "POOL 85420", config: { conditions: { target: { el: el, kind: "replace" } } } });
-          }
-        }
-      }
-
-      injectAdByWindowSize();
-
-      var refreshNextTime = true;
-
-      function showAds() {
-        document.getElementsByClassName("ad-rectangle-bottom")[0].style.display = "block";
-        document.getElementsByClassName("ad-leaderboard-bottom")[0].style.display = "block";
-        document.getElementById("adRectangleUpper").style.display = "block";
-
-        if (typeof counter === "undefined") {
-          startCounter();
-          resumeCounter();
-        } else {
-          resumeCounter();
-          refresh();
-        }
-      }
-
-      function hideAds() {
-        document.getElementsByClassName("ad-rectangle-bottom")[0].style.display = "none";
-        document.getElementsByClassName("ad-leaderboard-bottom")[0].style.display = "none";
-        document.getElementById("adRectangleUpper").style.display = "none";
-
-        pauseCounter();
-      }
-
-      // hide ads
-      hideAds();
-
-      function refresh() {
-        //console.log("time since ads refresh = " + timeSinceRefresh + " seconds");
-        //console.log("time ads visible = " + timeAdsVisible + " seconds");
-
-        if (timeSinceRefresh <= 30 || timeAdsVisible <= 2) {
-          //console.log("don't refresh");
-          return;
-        }
-
-        if (document.getElementById("adRectangleBottom") != null && window.getComputedStyle(document.getElementsByClassName("ad-smallscreen")[0]).display != "none") {
-          cpmstarAPI({ kind: "adcmd", module: "POOL 83023", command: "refresh" });
-        }
-
-        if (document.getElementById("adLeaderboardBottom") != null && window.getComputedStyle(document.getElementsByClassName("ad-largescreen")[0]).display != "none") {
-          cpmstarAPI({ kind: "adcmd", module: "POOL 85420", command: "refresh" });
-        }
-
-        cpmstarAPI({ kind: "adcmd", module: "POOL 83025", command: "refresh" });
-
-        timeSinceRefresh = 0;
-        timeAdsVisible = 0;
-        //console.log("refresh ads");
-      }
-
-      window.onfocus = function () {
-        //console.log("onfocus");
-        resumeCounter();
-        refresh();
-      };
-
-      window.onblur = function () {
-        //console.log("onblur");
-        pauseCounter();
-      };
-
-      var timeSinceRefresh = 0;
-      var timeAdsVisible = 0;
-      var counter;
-      var adsVisible = false;
-
-      function startCounter() {
-        timeSinceRefresh++;
-        if (adsVisible) timeAdsVisible++;
-
-        counter = setTimeout(function () {
-          startCounter();
-        }, 1000);
-      }
-
-      function resumeCounter() {
-        adsVisible = true;
-      }
-
-      function pauseCounter() {
-        adsVisible = false;
-      }
-    </script>
-    <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
-    <script src="firebase/firebase-app.js"></script>
-
-    <!-- Add Firebase products that you want to use -->
-    <script src="firebase/firebase-analytics.js"></script>
-    <script src="firebase/firebase-auth.js"></script>
-    <script src="firebase/firebase-firestore.js"></script>
-    <script src="firebase/firebase-remote-config.js"></script>
-
-    <script src="js/firebase.js?v=147"></script>
-    <script src="js/login.js?v=147"></script>
-    <script src="js/firebase-config.js?v=147"></script>
-
-    <script>
-      var hostname = window.location.hostname;
-      if (hostname.indexOf("dev1v1") >= 0 || hostname.indexOf("dev.1v1") >= 0 || hostname.indexOf("test1v1") >= 0 || hostname.indexOf("test.1v1") >= 0 || hostname.indexOf("localhost") >= 0) {
-        initializeFireBaseDev();
-      } else {
-        initializeFireBase();
-      }
-
-      initRemoteConfig();
-    </script>
-
-    <script src="js/windowResize.js"></script>
-    <script src="js/adblockManager.js"></script>
-    <script src="js/macUserAgent.js"></script>
-    <script src="js/visibilityChangeListener.js"></script>
-    <script>
-      function onUnityReady() {
-        checkAdBlock();
-        sendConfig();
-      }
-
-      fixMacUserAgent();
-    </script>
-    <script src="/js/main.js"></script>
-  
-
-<script src="blob:https://1v1lol-unblocked-game.github.io/d46e5ea0-f47e-4bc2-a5bf-dce29bc4d8d3" id="b82cfc4c1496702c323b5f2076fc4695"></script></body></html>
+</body></html>
